@@ -2,5 +2,311 @@
 "name" : "シャミ子の魔力訓練",
 "symbol" : "",
 "data_url" : "https://script.google.com/macros/s/AKfycbwA5ni6SagEI1UiisHc4dWt487ORCLMraTRIG9lZ9CggrR_J5gFIRR9i5Ut8gD1bfH94g/exec"
-"course" : "https://script.google.com/macros/s/AKfycbxmC-IqYZt4kBdzxgguRNuhRCFI-Lt2G7JCxm4cfYTwcjwTSQZ-fPyR0gZisVDn_gVazg/exec"
+"course": [
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "桃の作ったシャミ子用トレーニング[初級]",
+		"hash": [
+			{
+				"title": "明空リュウセイグン",
+				"subtitle": "[流星群の軌跡]",
+				"genre": "DAYBREAK DRUM'N'BASS",
+				"artist": "idzuchi takl feat. TEA",
+				"subartist": "obj.Limite",
+				"md5": "8a181221c57e9a5f5b621d692cbef43c",
+				"sha256": "5717ef9f8b6e00c0197d318c9f9abdd06c2103a5bba0cb2bfc5c71fa227694c8",
+				"content": 3,
+				"charthash": "1c74deb623d53f743a388938b65a4f408bc9f28b8f3fa361b63c5fe2b5b1add5"
+			},
+			{
+				"title": "Poppin' Shower [hi-rea'du]",
+				"genre": "HAPPY SWEETS CORE",
+				"artist": "P*Light / obj:BAECON",
+				"md5": "fb8e2e64af3308e2e9190fec6424efe3",
+				"sha256": "0e652a609fcc617ca2efa2cae908c381427de11ee081b69c61b93b55673f4dff",
+				"content": 3,
+				"stagefile": "stage.png",
+				"charthash": "b404e0785a2a74f9a45ff1ebc85981e9f1156f17e959ed91fd569e472b4004ca"
+			},
+			{
+				"title": "キユビック",
+				"genre": "TECHNO COLONY",
+				"artist": "LisicA",
+				"subartist": "movie : ルゼ(LuzeriA) / illust : Orphee / obj:Frnter",
+				"md5": "c9a4b05532d3ca8c765f6489b6cc25eb",
+				"sha256": "a5b853f5675b9863364a513df13b047683d332f6d7188a31322be71d26d62f76",
+				"content": 3,
+				"stagefile": "title.png",
+				"banner": "banner.png",
+				"charthash": "58f5f92b8ed28f12a9bda96f820f8c0fa17a929abbfc84407e715e4f9644d0a0"
+			},
+			{
+				"title": "H∀TE [ANOTHER 2000Notes]",
+				"genre": "Hard techno",
+				"artist": "HOUJIROU a.k.a 2000Notes党首",
+				"md5": "c86939d03711c8361a9298133bf768ae",
+				"sha256": "6975921890e844ed4d5137f63cf39dc1f60144396ff78ea68f7d798ba48c4dbc",
+				"content": 2,
+				"stagefile": "HATE_title.png",
+				"banner": "HATE_bnr.png",
+				"charthash": "93d25783bef2e279d99d759c33b2c0034a50f85f3c73cd97b95d1100111a9e71"
+			}
+		],
+		"constraint": [
+			"RANDOM",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "桃の作ったシャミ子用トレーニング[中級]",
+		"hash": [
+			{
+				"title": "your wind, my blind",
+				"subtitle": "[ZOI]",
+				"genre": "Monologue",
+				"artist": "Puella",
+				"subartist": "Voice : 結崎有理 / Illustration : Violpa / obj:SUZUKAZEΛ",
+				"md5": "f06660c61e2db1da1e3b2e6853c5bdd2",
+				"sha256": "9b1e0641b1e9ea951cdb0fd6167cbf856e46c57387f74666ff3bcd394f9f49c6",
+				"content": 3,
+				"stagefile": "_stage.jpg",
+				"charthash": "0e25a624bd5946be03978036c4ae779a2039200e7d86c272e5b9e271a85ee918"
+			},
+			{
+				"title": "The Last Page [Endgame]",
+				"genre": "Artcore",
+				"artist": "ARForest / inukoro",
+				"subartist": "obj. DK",
+				"md5": "31d94f9c12d00a95b059e0a0629232a0",
+				"sha256": "e2afa4bd035a029dbed451622acadba55b94e8d6ffad311017b751e06a2b61d0",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"charthash": "f35a486e609ef43b03b0fb708a50f10ea9476d6e21ed9d1c809f7171c598b9ac"
+			},
+			{
+				"title": "Rainy",
+				"subtitle": "[雨]",
+				"genre": "Instrumental",
+				"artist": "Yu^ta",
+				"subartist": "obj. Limite + BAECON",
+				"md5": "c39ac8cf82d1bc55fe36863f09569838",
+				"sha256": "5568cbddff520e8fd429894f81ca82544796a170360575796938e50b4569b0e5",
+				"content": 2,
+				"stagefile": "_back.png",
+				"banner": "_banner.png",
+				"charthash": "24ccf707603b85e98766f5bae6d6160d8cd35a72bc015246691de2badec3bebc"
+			},
+			{
+				"title": "+84",
+				"subtitle": "[摩天楼]",
+				"genre": "Drumnbass",
+				"artist": "はがね",
+				"subartist": "obj. 0samil0 vs Lapis",
+				"md5": "46b798b33aba4db80689df79f0cbf339",
+				"sha256": "946104d37d930a085375e4e26a5d9cf590653366b074a59bf62730292d12f4fd",
+				"content": 3,
+				"stagefile": "_bms_title.png",
+				"backbmp": "_bms_titlemap.png",
+				"banner": "_bms_bnr.png",
+				"charthash": "55d45e75d8c9a8fa70751b78449ac90c1093f74b7d1d5915a0422ad8ca48f4f3"
+			}
+		],
+		"constraint": [
+			"RANDOM",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "桃の作ったシャミ子用トレーニング[上級]",
+		"hash": [
+			{
+				"title": "アトロポスと最果の探求者",
+				"subtitle": "[dilaceration]",
+				"genre": "eschatology",
+				"artist": "しーけー",
+				"subartist": "obj.mute",
+				"md5": "aa9b40b95e54d1e58ee963457a922201",
+				"sha256": "37bb2975846fe8fcf006e804ba352b4edec335b639c57c65f9170b975625c34a",
+				"content": 2,
+				"charthash": "230d7337aaf464a8a92e0d381fc9246929be820329407ab432b3cdd058ba62c2"
+			},
+			{
+				"title": "fuga(普通 Version)",
+				"genre": "classic",
+				"artist": "WOOD",
+				"md5": "c7e6dba38ba3618ea22e508917596716",
+				"sha256": "4d0f931f5e3b8aa9c0f8ef40b3cd7897639256fc586665485677f331969a91fb",
+				"content": 1,
+				"charthash": "daf9ff7cc4167205ec7f37a429f8ef40ae7dc2e934346cfdd8458bf460b61d00"
+			},
+			{
+				"title": "ナツイノ",
+				"subtitle": "[涼風]",
+				"genre": "HOUSE",
+				"artist": "Ino loves みずたま & 加藤裕幸(sweez) / obj:Sphere",
+				"md5": "dc77bd7acccaeb391ea39043736cb72c",
+				"sha256": "342907b2b4d7cb2e5c669601d8e5504975474018285709fef10fcf267f71981a",
+				"content": 3,
+				"stagefile": "Natsuino_stage.jpg",
+				"charthash": "013177bedbc97f3935deef964798e06acabc946a2e05557d3d2f1302a4c710e5"
+			},
+			{
+				"title": "After School Dessert(Uzawa&Kazusa HardCore Remix) [SP Cath Palug]",
+				"genre": "Sweets Hardcore",
+				"artist": "KARUT(Remixed by nekomimi_STRaw)  / BGA: MUSH.T / obj.rat",
+				"md5": "abf32a38d7f8bc98f57742e212938355",
+				"sha256": "bfb43200a3a70af578b34bde796a8b882a2895777262b2f13a6c147b6e1a18aa",
+				"content": 2,
+				"stagefile": "Stagefile.png",
+				"backbmp": "Backbmp.png",
+				"banner": "Banner.png",
+				"charthash": "01761b8146d2d00e3a9591fcec9ffd6c00c7060e6fcdb3a7a675d2c7ccfb54bd"
+			}
+		],
+		"constraint": [
+			"RANDOM",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "桃の作ったシャミ子用トレーニング[特級]",
+		"hash": [
+			{
+				"title": "Say A Vengeance [HARDEST]",
+				"genre": "J-CORE",
+				"artist": "ETIA. feat.Jenga/ 差分 赤い人",
+				"subartist": "deadblue238 / 篠乃ちよ",
+				"md5": "89e87af0a7df4a284abfbd6860194498",
+				"sha256": "94b5d8cec26bdbb40eef0c80613efc9fd1207601c51b7cb5b348eef52047bcc3",
+				"content": 3,
+				"stagefile": "_title.png",
+				"charthash": "1083b073b7f64436fbfc3ce66059f86fd0b86b28671bc6276c0bb5ac518b1cf3"
+			},
+			{
+				"title": "DEATH†TENGOQ ～怒りの天地合体野郎～ -Dystopia-",
+				"genre": "世紀マッド",
+				"artist": "BMS Sound Team\"DJ 筆箱\" / BMS Designers\"VJ 牛乳パック\"",
+				"subartist": "obj:七海",
+				"md5": "cf44c1e88c6a5545728c0468040a63e4",
+				"sha256": "0a9388f21ec4a8b3dcbef681c4f7d35e60aa62582e87815d222e277b9a1ce4db",
+				"content": 3,
+				"charthash": "b16b43e5cea58da5f3ab277d7a1d2a8b3d147b7bd8e74b1c68f5a0adeedecb3a"
+			},
+			{
+				"title": "BIG LOVE",
+				"subtitle": "[mini jacks]",
+				"genre": "175",
+				"artist": "Alkome",
+				"subartist": "LuvTek",
+				"md5": "bd0c636a335988b7848392a500b63e85",
+				"sha256": "4e2f2061760cbf787730ed06a6a4226932c24bfbba071462f6ac03e9d3d86228",
+				"content": 3,
+				"charthash": "1783fdd05f98c4bd044b79d07ccd77bf111cdcbb6e5e12070c1f5297745aae5a"
+			},
+			{
+				"title": "Magical Love Words",
+				"subtitle": "[フィジカル横認識]",
+				"genre": "Akiba Pop",
+				"artist": "源屋feat.ユスラ",
+				"subartist": "obj:trainer",
+				"md5": "407c8e043a446c9dc99fc1ca97eb2fb5",
+				"sha256": "438d308d441d44f3772bb77802d451b4f5c0f7c1052020cf0cb4a5a3efb1270c",
+				"content": 3,
+				"stagefile": "fity_title.bmp",
+				"charthash": "cb9187c3b20fa1abb4b0230f8119716935a0038811984f06c598838512587be0"
+			}
+		],
+		"constraint": [
+			"RANDOM",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	}
+]
 }
