@@ -8,11 +8,11 @@
         "name": "桃の作ったシャミ子用トレーニング[初級]",
         "constraint": ["grade_random"],
         "gauge_lr2": true,
-        "md5": [
-          "aa9b40b95e54d1e58ee963457a922201",
-          "c7e6dba38ba3618ea22e508917596716",
-          "dc77bd7acccaeb391ea39043736cb72c",
-          "abf32a38d7f8bc98f57742e212938355"]
+       "md5": [
+          "8a181221c57e9a5f5b621d692cbef43c",
+          "fb8e2e64af3308e2e9190fec6424efe3",
+          "c9a4b05532d3ca8c765f6489b6cc25eb",
+          "c86939d03711c8361a9298133bf768ae"]
       },
       {
         "name": "桃の作ったシャミ子用トレーニング[中級]",
@@ -29,10 +29,10 @@
         "constraint": ["grade_random"],
         "gauge_lr2": true,
         "md5": [
-          "8a181221c57e9a5f5b621d692cbef43c",
-          "fb8e2e64af3308e2e9190fec6424efe3",
-          "c9a4b05532d3ca8c765f6489b6cc25eb",
-          "c86939d03711c8361a9298133bf768ae"]
+          "aa9b40b95e54d1e58ee963457a922201",
+          "c7e6dba38ba3618ea22e508917596716",
+          "dc77bd7acccaeb391ea39043736cb72c",
+          "abf32a38d7f8bc98f57742e212938355"]
       },
       {
         "name": "桃の作ったシャミ子用トレーニング[特級]",
