@@ -43,6 +43,16 @@
           "cf44c1e88c6a5545728c0468040a63e4",
           "bd0c636a335988b7848392a500b63e85",
           "407c8e043a446c9dc99fc1ca97eb2fb5"]
+      },
+      {
+        "name": "桃のフィジ横プロテイン[初級]",
+        "constraint": ["grade_random"],
+        "gauge_lr2": true,
+        "md5": [
+          "5c265d92d25f34b230074b912527b3a3",
+          "dd0f6f0dd924a53b3363c609ce0d1b0f",
+          "aec4859fb3a64959fc8812faef30c9a2",
+          "2d488edb0fad6b0bce38f0440eb6e755"]
       }
     ]
   ]
