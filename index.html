@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
     
- let tableBuilt = false;   // ← この1行は関数の外に置く
-    
 <head>
     <title>シャミ子の魔力訓練</title>
     <meta charset="UTF-8">
@@ -48,7 +46,7 @@
                     });
                 });
             });
-           
+            let tableBuilt = false;   // ← この1行は関数の外に置く
             
             function makeBMSTable(info, mark) {
                 if (tableBuilt) return;  // ← ここを最初に追加
